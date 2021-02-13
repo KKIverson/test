@@ -7,3 +7,4 @@ Test conflict and merge.
 add merge.
 test no-ff merge.
 test & test
+test and test
